@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParsingYouTubePage.Console", "ParsingYouTubePage.Console\ParsingYouTubePage.Console.csproj", "{892F9D9D-EC3A-40EB-A6F2-42332BCAD46E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParsingYouTubePage.Notion", "ParsingYouTubePage.Notion\ParsingYouTubePage.Notion.csproj", "{366725DD-52EE-4E00-B027-7E461E61DFD7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParsingYouTubePage.Video", "ParsingYouTubePage.Video\ParsingYouTubePage.Video.csproj", "{C492AAD0-FCB9-4477-AB33-EAA9DC5499B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsingYouTubePage.Telegram", "ParsingYouTubePage.Telegram\ParsingYouTubePage.Telegram.csproj", "{BF5694C8-19D4-486C-BEB0-A2B2739ACC22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{892F9D9D-EC3A-40EB-A6F2-42332BCAD46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892F9D9D-EC3A-40EB-A6F2-42332BCAD46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892F9D9D-EC3A-40EB-A6F2-42332BCAD46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892F9D9D-EC3A-40EB-A6F2-42332BCAD46E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{366725DD-52EE-4E00-B027-7E461E61DFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{366725DD-52EE-4E00-B027-7E461E61DFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{366725DD-52EE-4E00-B027-7E461E61DFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{366725DD-52EE-4E00-B027-7E461E61DFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C492AAD0-FCB9-4477-AB33-EAA9DC5499B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C492AAD0-FCB9-4477-AB33-EAA9DC5499B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C492AAD0-FCB9-4477-AB33-EAA9DC5499B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C492AAD0-FCB9-4477-AB33-EAA9DC5499B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF5694C8-19D4-486C-BEB0-A2B2739ACC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5694C8-19D4-486C-BEB0-A2B2739ACC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5694C8-19D4-486C-BEB0-A2B2739ACC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5694C8-19D4-486C-BEB0-A2B2739ACC22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {255F8692-B592-41E1-B248-B9DB6CA72DB4}
+	EndGlobalSection
+EndGlobal
